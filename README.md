@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Predictor: A Machine Learning Regression Project
+# 🚗 Car Price Predictor: A Machine Learning Regression Project
 
 ## 📌 Business Problem
 Platforms like Cars24 or CarDekho need to evaluate the exact resale value of thousands of used cars daily. Relying on human estimates can lead to profit loss or customer dissatisfaction. The objective of this project is to build an automated, high-accuracy Machine Learning pipeline that predicts the exact selling price of a used car based on its features (Age, Kms Driven, Fuel Type, etc.).
